@@ -3,6 +3,7 @@
 Contact:<b> Saad</b><br>
 Email: saad@triangeltech.com<br>
 Number: +8801904654712<br>
+Company WEB: https://triangeltech.com/ <br>
 
 A sample app for Android TV written in Java that utilizes the KenticoCloudDeliveryJavaRxSDK to manage and retrieve content You can register your account for free at https://app.kenticocloud.com.
 
